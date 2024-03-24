@@ -2,7 +2,7 @@
 
 This is an addon for Bass OS, and must be used with the private manifest found in the manifest folder. 
 
-Please copy the .xml files found in the manifest/ folder to you Bass project folders manifests/ folder (`bass_os/manifests/`) before unpacking the source, otherwise you will need to do a manual sync of this repo into the folder it needs to be in to properly apply the changes (`bass_os/bass/patches/patchsets-addon_name`).
+Please clone/copy this repo to you Bass project folders private/addons/ folder (`bass_os/private/addons/`) before unpacking the source, otherwise you will need to do a manual sync of this repo into the folder it needs to be in to properly apply the changes (`bass_os/bass/patches/patchsets-addon_name`).
 
 ## Change Information:
 
